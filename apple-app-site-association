@@ -2,7 +2,7 @@
     "applinks": {
         "apps": [],
         "details": [{
-            "appID": "D95XHVNG2Z.com.ford.QualityMobileReportingApplication",
+            "appID": "D95XHVNG2Z.com.ford.wame.swiftImplicitAuthFlow",
             "paths": ["*"]
             }]
     }
