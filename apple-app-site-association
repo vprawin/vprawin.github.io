@@ -1,9 +1,14 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [{
-            "appID": "D95XHVNG2Z.com.ford.QualityMobileReportingApplication",
-            "paths": ["*"]
-            }]
-    }
+  "activitycontinuation": {
+    "apps": [
+      "D95XHVNG2Z.com.ford.QualityMobileReportingApplication"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [{
+        "appID": "D95XHVNG2Z.com.ford.QualityMobileReportingApplication",
+        "paths": ["*"]
+      }]
+  }
 }
